@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ReactApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ReactApp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
